@@ -1,0 +1,13 @@
+wget
+wheel
+psutil
+heroku3
+requests
+TgCrypto
+youtube_dl
+ffmpeg-python
+python-dotenv
+youtube_search
+youtube_search_python
+pytgcalls==3.0.0.dev19
+git+https://github.com/AsmSafone/pyrogram@master
